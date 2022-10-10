@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/developedbyvk]
-- Live Site URL: 
+- Live Site URL: [https://developedbyvk.github.io/Testimonials-grid-section/]
 
 ## My process
 
