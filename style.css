@@ -39,8 +39,9 @@ main{
   height: 32px;
   border-radius: 50%;
   margin-right: 10px;
-  border: 2px solid #fff;
+  border: 2px solid hsl(210, 1%, 63%);
 }
+
 .name{
   font-weight: 600;
   font-size: 15px;
@@ -89,6 +90,9 @@ main{
 .card-5 .card__head,
 .card-5 .card__detail{
   color: #222;
+}
+.card-4{
+ background-color: hsl(219, 29%, 14%);
 }
 .footer{
   position: relative;
